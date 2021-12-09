@@ -9,4 +9,3 @@ axali kontenti
 ....
 some content
 kidev erti xazi
-last version
